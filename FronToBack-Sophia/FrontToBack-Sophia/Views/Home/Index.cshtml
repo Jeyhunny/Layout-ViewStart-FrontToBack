@@ -1,0 +1,262 @@
+﻿@model List<Slider>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+
+<main>
+    <section id="slider" class="slick_slide">
+        <div class="col-12">
+            @foreach (var item in Model.Slider)
+            {
+                <div class="team">
+                <img src="./assets/images/Slider images/Head-phone.jpg" alt="">
+                <h1>HUGE SALE</h1>
+                <h3>Up to 70%</h3>
+                <button class="show">SHOW NOW</button>
+                </div>
+            }
+            
+        </div>
+        <div class="col-12">
+            <div class="team">
+                <img src="./assets/images/Slider images/Whatces.jpg" alt="">
+                <h1>BIGGEST DISCOUNT</h1>
+                <h3>Check the promotion</h3>
+                <button class="show">SHOW NOW</button>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="team">
+                <img src="./assets/images/Slider images/Smartphone.jpg" alt="">
+                <h1>BIGGEST SALE</h1>
+                <h3>Dont miss it</h3>
+                <button class="show">SHOW NOW</button>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="team">
+                <img src="./assets/images/Slider images/Laptop.jpg" alt="">
+                <h1>OUT BEST PRODUCTS</h1>
+                <h3>Special selection</h3>
+                <button class="show">SHOW NOW</button>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="team">
+                <img src="./assets/images/Slider images/SingleWhatch.jpg" alt="">
+                <h1>MASSIVE SALE</h1>
+                <h3>Only for today</h3>
+                <button class="show">SHOW NOW</button>
+            </div>
+        </div>
+    </section>
+
+    <section id="information" class="mt-5">
+        <div class="container text-center">
+            <div class="row align-items-start">
+                <div class="col-12">
+                    <div class="boxes">
+                        <div class="col-3">
+                            <div class="item item3">
+                                <i class="fa-solid fa-gift"></i>
+                                <div class="text">
+                                    <h6>BONUS PLUS</h6>
+                                    <p>Get a bonus plus for buying more that three products</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="item item2">
+                                <i class="fa-solid fa-truck"></i>
+                                <div class="text">
+                                    <h6>FREE SHİPPİNG</h6>
+                                    <p>Free shipping on all orders over $99</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="item item3">
+                                <i class="fa-solid fa-dollar-sign"></i>
+                                <div class="text">
+                                    <h6>MONEY BACK GUARANTEE</h6>
+                                    <p>100% money back guarantee</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="item item4">
+                                <i class="fa-solid fa-clock-rotate-left"></i>
+                                <div class="text">
+                                    <h6>ONLINE SUPPORT 24/7</h6>
+                                    <p>Call us: 02 3555 65454 55</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="products" class="mt-5">
+        <div class="container">
+            <div class="tabs">
+                <ul>
+                    <li data-id="1">FEATURED PRODUCTS</li>
+                    <li data-id="2">LATEST PRODUCTS</li>
+                    <li data-id="3">ON SALE PRODUCTS</li>
+                </ul>
+                <div class="line">
+                    <div class="underline"></div>
+                </div>
+            </div>
+            <div class="content content-items mt-3">
+                <div class="col-12">
+                    <div class="team">
+                        <div class="content1 multiple-items">
+                            <div class="col-2">
+                                <div class="team">
+                                    <div class="card" style="width: 18rem;" data-id="1">
+                                        <a href="product-detail.html">
+                                            <img src="./assets/images/products/headphone1.png" class="card-img-top"
+                                                 alt="...">
+                                        </a>
+                                        <div class="card-body">
+                                            <span>Headphones</span>
+                                            <h5 class="card-title">ONTEC E Headset</h5>
+                                            <div class="stars">
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                            </div>
+                                            <div class="totals">
+                                                <span class="dollar-icon">$</span><span class="prize">175.00</span>
+                                            </div>
+                                            <button>ADD TO CART <i class="fa-solid fa-cart-shopping"></i></button>
+                                            <i class="fa-regular fa-heart heart d-none"></i>
+                                            <i class="fa-solid fa-eye eye d-none"></i>
+                                            <i class="fa-solid fa-arrow-rotate-left rotate d-none"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="team">
+                                    <div class="card" style="width: 18rem;" data-id="2">
+                                        <a href="product-detail.html">
+                                            <img src="./assets/images/products/headphone1 (1).png"
+                                                 class="card-img-top" alt="...">
+                                        </a>
+                                        <div class="card-body">
+                                            <span>Headphones</span>
+                                            <h5 class="card-title">Solo Headset</h5>
+                                            <div class="stars">
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                            </div>
+                                            <div class="totals">
+                                                <span class="dollar-icon">$</span><span class="prize">235.00</span>
+                                            </div>
+                                            <button>ADD TO CART <i class="fa-solid fa-cart-shopping"></i></button>
+                                            <i class="fa-regular fa-heart heart d-none"></i>
+                                            <i class="fa-solid fa-eye eye d-none"></i>
+                                            <i class="fa-solid fa-arrow-rotate-left rotate d-none"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="team">
+                                    <div class="card" style="width: 18rem;" data-id="3">
+                                        <a href="product-detail.html">
+                                            <img src="./assets/images/products/headphone1 (2).png"
+                                                 class="card-img-top" alt="...">
+                                        </a>
+                                        <div class="card-body">
+                                            <span>Headphones</span>
+                                            <h5 class="card-title">Ultra White Wireless</h5>
+                                            <div class="stars">
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                            </div>
+                                            <div class="totals">
+                                                <span class="dollar-icon">$</span><span class="prize">350.00</span>
+                                            </div>
+                                            <button>ADD TO CART <i class="fa-solid fa-cart-shopping"></i></button>
+                                            <i class="fa-regular fa-heart heart d-none"></i>
+                                            <i class="fa-solid fa-eye eye d-none"></i>
+                                            <i class="fa-solid fa-arrow-rotate-left rotate d-none"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="team">
+                                    <div class="card" style="width: 18rem;" data-id="4">
+                                        <a href="product-detail.html">
+                                            <img src="./assets/images/products/headphone1 (3).png"
+                                                 class="card-img-top" alt="...">
+                                        </a>
+                                        <div class="card-body">
+                                            <span>Headphones</span>
+                                            <h5 class="card-title">Wireless Mondo</h5>
+                                            <div class="stars">
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                            </div>
+                                            <div class="totals">
+                                                <span class="dollar-icon">$</span><span class="prize">266.00</span>
+                                            </div>
+                                            <button>ADD TO CART <i class="fa-solid fa-cart-shopping"></i></button>
+                                            <i class="fa-regular fa-heart heart d-none"></i>
+                                            <i class="fa-solid fa-eye eye d-none"></i>
+                                            <i class="fa-solid fa-arrow-rotate-left rotate d-none"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="team">
+                                    <div class="card" style="width: 18rem;" data-id="5">
+                                        <a href="product-detail.html">
+                                            <img src="./assets/images/products/headphone1 (4).png"
+                                                 class="card-img-top" alt="...">
+                                        </a>
+                                        <div class="card-body">
+                                            <span>Headphones</span>
+                                            <h5 class="card-title">Headset Perro</h5>
+                                            <div class="stars">
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                                <span class="fa fa-star checked"></span>
+                                            </div>
+                                            <div class="totals">
+                                                <span class="dollar-icon">$</span><span class="prize">88.00</span>
+                                            </div>
+                                            <button>ADD TO CART <i class="fa-solid fa-cart-shopping"></i></button>
+                                            <i class="fa-regular fa-heart heart d-none"></i>
+                                            <i class="fa-solid fa-eye eye d-none"></i>
+                                            <i class="fa-solid fa-arrow-rotate-left rotate d-none"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="team">
+                                    <div class="card" style="width: 18rem;" data-id="6">
+
