@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4clX8z8TdmoTk+kkdNbiiuQXZc03fk/THaO+ErodfVSNMEiqNVelPN2npnfZ/dl/UzSWqMrmtENucNqxf7W4JQ==",
+  "dgSpecHash": "A/PX56STYA1ryHf5DEos3NcsV0uBD9wpGH2MzKjpLAkTo7rFO9YhhWlsYl/gEsGJ+B8MulK+yN3+CRHu3BcU8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack-Task\\FrontToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Layout-ViewStart-FrontToBack\\FronToBack-Sophia\\FrontToBack-Sophia\\FrontToBack-Sophia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -268,3 +268,14 @@ C:\Users\konul\OneDrive\Masaüstü\Back-End\Asp.net\EntityFramework - Slider tas
 C:\Users\konul\OneDrive\Masaüstü\Back-End\Asp.net\EntityFramework - Slider task-Sophia\FrontToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.pdb
 C:\Users\konul\OneDrive\Masaüstü\Back-End\Asp.net\EntityFramework - Slider task-Sophia\FrontToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.genruntimeconfig.cache
 C:\Users\konul\OneDrive\Masaüstü\Back-End\Asp.net\EntityFramework - Slider task-Sophia\FrontToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\ref\FrontToBack-Sophia.dll
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.dll
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\refint\FrontToBack-Sophia.dll
+C:\Users\Acer\Desktop\Developer\Back-End\Layout-ViewStart-FrontToBack\FronToBack-Sophia\FrontToBack-Sophia\obj\Debug\net6.0\FrontToBack-Sophia.pdb
